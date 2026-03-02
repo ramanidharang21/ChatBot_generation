@@ -1,0 +1,28 @@
+# Web Framework & Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database & Environment
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+python-dotenv
+
+# AI & AWS SDK
+boto3
+botocore
+strands-agent
+
+# Image Processing
+Pillow
+
+# Document & PDF Generation
+reportlab
+pdfplumber
+python-docx
+
+# Utilities
+typing-extensions
+pathlib
