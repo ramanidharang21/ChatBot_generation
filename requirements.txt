@@ -1,6 +1,6 @@
 # Web Framework & Server
 fastapi
-uvicorn[standard]
+uvicorn
 python-multipart
 
 # Database & Environment
@@ -13,7 +13,7 @@ python-dotenv
 # AI & AWS SDK
 boto3
 botocore
-strands-agent
+strands-agents
 
 # Image Processing
 Pillow
@@ -25,4 +25,5 @@ python-docx
 
 # Utilities
 typing-extensions
+
 pathlib
